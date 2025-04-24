@@ -2,9 +2,13 @@
 
 This guide provides a structured approach to set up a new project. Whether you are working solo or in a team, these steps will help you plan, design, and implement the project efficiently.
 
+
+This project follows comprehensive guidelines inspired by the [_"Starting a New Programming Project"_](https://watery-whale-92f.notion.site/Starting-a-New-Programming-Project-1c0408cc99df80589669f95c0ad5abb0) notion page
+
+
 ---
 
-## 1. Project Planning Phase
+## [1. Project Planning Phase](./1-planning.md)
 
 ### Key Actions:
 - **Requirements Analysis**: Define the project goals and success criteria.
@@ -16,7 +20,7 @@ This guide provides a structured approach to set up a new project. Whether you a
 
 ---
 
-## 2. System Design Fundamentals
+## [2. System Design Fundamentals](./2-sytem-design.md)
 
 ### Key Actions:
 - **Choose Architecture**: Select the right architecture (monolithic, microservices, or serverless) based on project needs.
@@ -27,7 +31,7 @@ This guide provides a structured approach to set up a new project. Whether you a
 
 ---
 
-## 3. Project Setup
+## [3. Project Setup](/3-implementation.md)
 
 ### Key Actions:
 - **Version Control (Git)**: Initialize a Git repository and create a `.gitignore` file.
@@ -37,7 +41,7 @@ This guide provides a structured approach to set up a new project. Whether you a
 
 ---
 
-## 4. Development Environment Setup
+## [4. Development Environment Setup](./4-dev-environment.md)
 
 ### Key Actions:
 - **Set Up Git**: Configure Git for version control.
@@ -48,7 +52,7 @@ This guide provides a structured approach to set up a new project. Whether you a
 
 ---
 
-## 5. Agile & Workflow Planning
+## [5. Agile & Workflow Planning](./5-agile-workflow.md)
 
 ### Key Actions:
 - **Adopt an Agile Methodology**: Choose between Scrum or Kanban based on project needs.
@@ -58,7 +62,7 @@ This guide provides a structured approach to set up a new project. Whether you a
 
 ---
 
-## 6. DevOps and CI/CD
+## [6. DevOps and CI/CD](./6-devops.md)
 
 ### Key Actions:
 - **Set Up CI**: Automate testing with a CI tool like Jenkins or GitHub Actions.
@@ -68,7 +72,7 @@ This guide provides a structured approach to set up a new project. Whether you a
 
 ---
 
-## 7. Documentation
+## [7. Documentation](./7-documentation.md)
 
 ### Key Actions:
 - **Write Technical Documentation**: Create system architecture, API docs, and setup guides.
